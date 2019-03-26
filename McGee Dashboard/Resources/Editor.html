@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="tinymce/js/tinymce/tinymce.min.js"></script>
+
+    <script type="text/javascript">
+
+        var editorWidth;
+
+        function SetEditor(passedDocument) {
+            tinymce.activeEditor.getBody().style.backgroundColor = passedDocument.body.style.backgroundColor;
+            tinymce.activeEditor.dom.addStyle(passedDocument.getElementsByTagName("style")[0].innerHTML);
+            tinymce.activeEditor.setContent(passedDocument.documentElement.outerHTML);
+            tinymce.activeEditor.undoManager.clear();
+    	};
+
+    	function GetEditor(){
+            var editorText = tinymce.activeEditor.getContent(),
+                editor = editorText.replace(/<body.*>/, "<body style=\"" + tinymce.activeEditor.getBody().getAttribute("style") + "\">");
+            return editor;
+        };
+
+    	function SetEditorSize(passedWidth, passedHeight){
+
+            editorWidth = passedWidth;
+
+            tinymce.activeEditor.theme.resizeTo(passedWidth, passedHeight);
+
+            var width = document.documentElement.scrollWidth,
+                height = document.documentElement.scrollHeight;
+                
+            window.external.ReturnEditorSize(width + 8 /*margin*/, height);
+        };
+
+        tinymce.init({
+            selector: '#mytextarea',
+            branding: false,
+            resize: false,
+            plugins: 'save print preview fullpage searchreplace autolink directionality visualblocks visualchars fullscreen image link media template codesample table charmap hr pagebreak nonbreaking anchor toc insertdatetime advlist lists textcolor wordcount imagetools contextmenu colorpicker textpattern help',
+            toolbar1: 'undo redo | fontselect | fontsizeselect | scrolltext | bold italic strikethrough | forecolor backcolor | bodycolour',
+            toolbar2: 'alignleft aligncenter alignright alignjustify | numlist bullist outdent indent | removeformat | link ',
+            toolbar3: 'save',
+            image_advtab: true,
+            content_css: "styles.css",
+            save_enablewhendirty: false,
+            save_onsavecallback: function () {
+                window.external.SaveEditor(GetEditor());
+            },
+            setup: function (editor) {
+                editor.addButton('scrolltext', {
+                    type: 'listbox',
+                    text: 'Scroll Text',
+                    icon: false,
+                    onselect: function (e) {
+                        var elem = tinymce.activeEditor.selection.getStart(),
+                            bookmark = tinymce.activeEditor.selection.getBookmark(2);
+
+                        this.settings.values.forEach(function (currentValue) { tinymce.activeEditor.dom.removeClass(elem, currentValue.value); })
+
+                        if (this.value() == "no-anim") {
+                            var content = tinymce.activeEditor.getContent(),
+                                newContent = content.replace(/<style>.*<\/style>/, "<style></style>");
+
+                            tinymce.activeEditor.setContent(newContent);
+                        }
+                        else {
+                            tinymce.activeEditor.dom.addClass(elem, this.value());
+
+                            var newStyle = "@keyframes myanimation { 0% { left: -" + elem.offsetWidth + "px; } 100% { left: " + editorWidth + "px; } }",
+                                content = tinymce.activeEditor.getContent(),
+                                newContent = content.replace(/<style>.*<\/style>/, "<style> " + newStyle + " </style>");
+
+                            tinymce.activeEditor.setContent(newContent);
+                            tinymce.activeEditor.dom.addStyle(newStyle);
+                        }
+
+                        tinymce.activeEditor.selection.moveToBookmark(bookmark);
+                    },
+                    values: [
+                        { text: 'No Scroll', value: 'no-anim' },
+                        { text: 'Left to Right', value: 'anim-1' },
+                        { text: 'Right to Left', value: 'anim-2' }
+                    ],
+                    onPostRender: function () {
+                        // Select the first item by default
+                        this.value('no-anim');
+                    }
+                });
+            }
+        })
+
+    </script>
+      <style>
+          /*reposition save button*/
+          .mce-container.mce-toolbar.mce-stack-layout-item.mce-last {
+              position: absolute;
+              top: 0px;
+              right: 0px;
+          }
+
+      </style>
+  </head>
+  <body>
+      <textarea id="mytextarea">Hello, World!</textarea>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "McGee Dashboard", "McGee Dashboard\McGee Dashboard.csproj", "{B9290DDE-E7AD-48B8-8CA4-C077B890DF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9290DDE-E7AD-48B8-8CA4-C077B890DF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9290DDE-E7AD-48B8-8CA4-C077B890DF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9290DDE-E7AD-48B8-8CA4-C077B890DF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9290DDE-E7AD-48B8-8CA4-C077B890DF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41B5F971-A46B-4329-A092-1D7EA242C4E7}
+	EndGlobalSection
+EndGlobal

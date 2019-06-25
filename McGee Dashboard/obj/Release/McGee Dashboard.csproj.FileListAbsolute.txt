@@ -14,6 +14,88 @@ C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resource
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Mandatory Requirement.html
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\McGee Loading.png
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\McGee Logo.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\Dashboard.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graphs\graph1.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graphs\graph2.png
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Resize Button Rollover.png
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Resize Button.png
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Safety Ladder.png
@@ -114,14 +196,9 @@ C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resource
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Twitter Title.html
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\McGee Dashboard.exe
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\McGee Dashboard.pdb
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csprojResolveAssemblyReference.cache
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\NSMcGeeDashboard.McGeeDashboard.resources
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\NSMcGeeDashboard.Properties.Resources.resources
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csproj.GenerateResource.Cache
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csproj.CoreCompileInputs.cache
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.exe
 C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.pdb
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\bahnschrift.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\Dashboard.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graph1.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graph2.png

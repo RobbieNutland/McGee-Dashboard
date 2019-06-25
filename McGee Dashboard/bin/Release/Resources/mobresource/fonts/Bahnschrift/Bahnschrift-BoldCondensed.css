@@ -1,0 +1,11 @@
+/* Webfont: Bahnschrift-BoldCondensed */@font-face {
+    font-family: 'BahnschriftCond';
+    src: url('Bahnschrift-BoldCondensed.eot'); /* IE9 Compat Modes */
+    src: url('Bahnschrift-BoldCondensed.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Bahnschrift-BoldCondensed.woff') format('woff'), /* Modern Browsers */
+         url('Bahnschrift-BoldCondensed.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+

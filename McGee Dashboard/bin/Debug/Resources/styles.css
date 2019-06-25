@@ -1,0 +1,20 @@
+
+body {
+    overflow: hidden !important;
+}
+
+.anim-1 {
+    display: inline-block;
+    position: absolute;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: myanimation 8s linear infinite;
+}
+
+.anim-2 {
+    display: inline-block;
+    position: absolute;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: myanimation 8s linear infinite reverse;
+}

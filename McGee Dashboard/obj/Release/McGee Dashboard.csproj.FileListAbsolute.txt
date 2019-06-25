@@ -1,0 +1,127 @@
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\ProjectSettings.json
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\Resources\v15\.suo
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\slnx.sqlite
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\VSWorkspaceState.json
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Bucket Icon.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Bulletin.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Close Button Rollover.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Close Button.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Dashboard Title.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Editor.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Focus Board.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\HTML-Template.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Icon.ico
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Mandatory Requirement.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\McGee Loading.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\McGee Logo.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Resize Button Rollover.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Resize Button.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Safety Ladder.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\scrolltext.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Site Information.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Site Name.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\styles.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\changelog.txt
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\jquery.tinymce.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\langs\readme.md
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\license.txt
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\advlist\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\anchor\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autolink\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autoresize\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autosave\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\bbcode\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\charmap\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\codesample\css\prism.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\codesample\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\code\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\colorpicker\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\contextmenu\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\directionality\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-cool.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-cry.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-embarassed.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-foot-in-mouth.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-frown.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-innocent.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-kiss.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-laughing.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-money-mouth.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-sealed.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-smile.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-surprised.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-tongue-out.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-undecided.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-wink.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-yell.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\fullpage\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\fullscreen\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\help\img\logo.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\help\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\hr\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\imagetools\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\image\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\importcss\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\insertdatetime\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\legacyoutput\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\link\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\lists\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\media\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\nonbreaking\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\noneditable\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\pagebreak\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\paste\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\preview\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\print\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\save\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\searchreplace\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\spellchecker\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\tabfocus\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\table\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\template\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textcolor\Bucket Icon.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textcolor\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textpattern\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\toc\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualblocks\css\visualblocks.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualblocks\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualchars\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\wordcount\plugin.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.inline.min.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.min.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.mobile.min.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-mobile.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.svg
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.eot
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.svg
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.woff
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\anchor.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\loader.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\object.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\trans.gif
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\skin.min.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\skin.mobile.min.css
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\inlite\theme.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\mobile\theme.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\modern\theme.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\tinymce.min.js
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\LICENSE.TXT
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Twitter Title.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\McGee Dashboard.exe
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\McGee Dashboard.pdb
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\NSMcGeeDashboard.McGeeDashboard.resources
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\NSMcGeeDashboard.Properties.Resources.resources
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csproj.GenerateResource.Cache
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.exe
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.pdb
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\bahnschrift.ttf
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\Dashboard.html
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graph1.png
+C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graph2.png

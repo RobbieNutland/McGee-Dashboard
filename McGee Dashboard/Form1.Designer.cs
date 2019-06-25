@@ -41,23 +41,23 @@
             this.rssFeed_RichTextBox = new System.Windows.Forms.RichTextBox();
             this.currentDateTime_RichTextBox = new System.Windows.Forms.RichTextBox();
             this.mcgeeEditor_Table = new System.Windows.Forms.TableLayoutPanel();
-            this.mcgeeEditor_WebBrowser = new System.Windows.Forms.WebBrowser();
-            this.mcgeeEditorTitle_Label = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
             this.mcgeeEditorResizeBtn_PictureBox = new System.Windows.Forms.PictureBox();
             this.mcgeeEditorCloseBtn_PictureBox = new System.Windows.Forms.PictureBox();
+            this.mcgeeEditorTitle_Label = new System.Windows.Forms.Label();
+            this.mcgeeEditor_WebBrowser = new System.Windows.Forms.WebBrowser();
             this.mcgeeLogo_PictureBox = new System.Windows.Forms.PictureBox();
             this.twitter_WebBrowser = new System.Windows.Forms.WebBrowser();
             this.googleWeather_WebBrowser = new System.Windows.Forms.WebBrowser();
             this.mobilengine_WebBrowser = new System.Windows.Forms.WebBrowser();
-            this.panel1 = new System.Windows.Forms.Panel();
             this.focusBoard_WebBrowser = new System.Windows.Forms.WebBrowser();
             this.safetyLadder_Panel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.safetyLadder_PictureBox)).BeginInit();
             this.mcgeeEditor_Table.SuspendLayout();
+            this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.mcgeeEditorResizeBtn_PictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.mcgeeEditorCloseBtn_PictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.mcgeeLogo_PictureBox)).BeginInit();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // dashboardTitle_WebBrowser
@@ -162,44 +162,37 @@
             this.currentDateTime_RichTextBox.Text = "";
             // 
             // mcgeeEditor_Table
-            //
+            // 
             this.mcgeeEditor_Table.AutoSize = true;
-            this.mcgeeEditor_Table.Name = "mcgeeEditor_Table";
-            this.mcgeeEditor_Table.Location = new System.Drawing.Point(50, 50);
             this.mcgeeEditor_Table.ColumnCount = 1;
-            this.mcgeeEditor_Table.RowCount = 2;
             this.mcgeeEditor_Table.Controls.Add(this.panel1, 0, 0);
             this.mcgeeEditor_Table.Controls.Add(this.mcgeeEditor_WebBrowser, 0, 1);
-            // 
-            // mcgeeEditor_WebBrowser
-            //
-            this.mcgeeEditor_WebBrowser.Name = "mcgeeEditor_WebBrowser";
-            this.mcgeeEditor_WebBrowser.ScrollBarsEnabled = false;
-            // 
-            // mcgeeEditorTitle_Label
-            //
-            this.mcgeeEditorTitle_Label.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.mcgeeEditorTitle_Label.Font = new System.Drawing.Font("Arial", 13F);
-            this.mcgeeEditorTitle_Label.ForeColor = System.Drawing.Color.Black;
-            this.mcgeeEditorTitle_Label.Name = "mcgeeEditorTitle_Label";
-            this.mcgeeEditorTitle_Label.Text = "McGee Dashboard Editor";
-            this.mcgeeEditorTitle_Label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.mcgeeEditor_Table.Location = new System.Drawing.Point(50, 50);
+            this.mcgeeEditor_Table.Name = "mcgeeEditor_Table";
+            this.mcgeeEditor_Table.RowCount = 2;
+            this.mcgeeEditor_Table.Size = new System.Drawing.Size(200, 100);
+            this.mcgeeEditor_Table.TabIndex = 0;
             // 
             // panel1
-            //
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Height = 30;
+            // 
             this.panel1.Controls.Add(this.mcgeeEditorResizeBtn_PictureBox);
             this.panel1.Controls.Add(this.mcgeeEditorCloseBtn_PictureBox);
             this.panel1.Controls.Add(this.mcgeeEditorTitle_Label);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.Location = new System.Drawing.Point(3, 3);
             this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(250, 30);
+            this.panel1.TabIndex = 0;
             // 
             // mcgeeEditorResizeBtn_PictureBox
             // 
             this.mcgeeEditorResizeBtn_PictureBox.Dock = System.Windows.Forms.DockStyle.Right;
             this.mcgeeEditorResizeBtn_PictureBox.Image = ((System.Drawing.Image)(resources.GetObject("mcgeeEditorResizeBtn_PictureBox.Image")));
+            this.mcgeeEditorResizeBtn_PictureBox.Location = new System.Drawing.Point(200, 0);
             this.mcgeeEditorResizeBtn_PictureBox.Name = "mcgeeEditorResizeBtn_PictureBox";
-            this.mcgeeEditorResizeBtn_PictureBox.Size = new System.Drawing.Size(25, 25);
+            this.mcgeeEditorResizeBtn_PictureBox.Size = new System.Drawing.Size(25, 30);
+            this.mcgeeEditorResizeBtn_PictureBox.TabIndex = 0;
+            this.mcgeeEditorResizeBtn_PictureBox.TabStop = false;
             this.mcgeeEditorResizeBtn_PictureBox.Click += new System.EventHandler(this.mcgeeEditorResizeBtn_PictureBox_Click);
             this.mcgeeEditorResizeBtn_PictureBox.MouseLeave += new System.EventHandler(this.mcgeeEditorResizeBtn_PictureBox_Rolloff);
             this.mcgeeEditorResizeBtn_PictureBox.MouseHover += new System.EventHandler(this.mcgeeEditorResizeBtn_PictureBox_Rollover);
@@ -208,11 +201,34 @@
             // 
             this.mcgeeEditorCloseBtn_PictureBox.Dock = System.Windows.Forms.DockStyle.Right;
             this.mcgeeEditorCloseBtn_PictureBox.Image = global::NSMcGeeDashboard.Properties.Resources.Close_Button;
+            this.mcgeeEditorCloseBtn_PictureBox.Location = new System.Drawing.Point(225, 0);
             this.mcgeeEditorCloseBtn_PictureBox.Name = "mcgeeEditorCloseBtn_PictureBox";
-            this.mcgeeEditorCloseBtn_PictureBox.Size = new System.Drawing.Size(25, 25);
+            this.mcgeeEditorCloseBtn_PictureBox.Size = new System.Drawing.Size(25, 30);
+            this.mcgeeEditorCloseBtn_PictureBox.TabIndex = 1;
+            this.mcgeeEditorCloseBtn_PictureBox.TabStop = false;
             this.mcgeeEditorCloseBtn_PictureBox.Click += new System.EventHandler(this.mcgeeEditorCloseBtn_PictureBox_Click);
             this.mcgeeEditorCloseBtn_PictureBox.MouseLeave += new System.EventHandler(this.mcgeeEditorCloseBtn_PictureBox_Rolloff);
             this.mcgeeEditorCloseBtn_PictureBox.MouseHover += new System.EventHandler(this.mcgeeEditorCloseBtn_PictureBox_Rollover);
+            // 
+            // mcgeeEditorTitle_Label
+            // 
+            this.mcgeeEditorTitle_Label.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.mcgeeEditorTitle_Label.Font = new System.Drawing.Font("Arial", 13F);
+            this.mcgeeEditorTitle_Label.ForeColor = System.Drawing.Color.Black;
+            this.mcgeeEditorTitle_Label.Location = new System.Drawing.Point(0, 0);
+            this.mcgeeEditorTitle_Label.Name = "mcgeeEditorTitle_Label";
+            this.mcgeeEditorTitle_Label.Size = new System.Drawing.Size(250, 30);
+            this.mcgeeEditorTitle_Label.TabIndex = 2;
+            this.mcgeeEditorTitle_Label.Text = "McGee Dashboard Editor";
+            this.mcgeeEditorTitle_Label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // mcgeeEditor_WebBrowser
+            // 
+            this.mcgeeEditor_WebBrowser.Location = new System.Drawing.Point(3, 39);
+            this.mcgeeEditor_WebBrowser.Name = "mcgeeEditor_WebBrowser";
+            this.mcgeeEditor_WebBrowser.ScrollBarsEnabled = false;
+            this.mcgeeEditor_WebBrowser.Size = new System.Drawing.Size(250, 250);
+            this.mcgeeEditor_WebBrowser.TabIndex = 1;
             // 
             // mcgeeLogo_PictureBox
             // 
@@ -220,6 +236,8 @@
             this.mcgeeLogo_PictureBox.Location = new System.Drawing.Point(0, 0);
             this.mcgeeLogo_PictureBox.Name = "mcgeeLogo_PictureBox";
             this.mcgeeLogo_PictureBox.Size = new System.Drawing.Size(700, 90);
+            this.mcgeeLogo_PictureBox.TabIndex = 18;
+            this.mcgeeLogo_PictureBox.TabStop = false;
             // 
             // twitter_WebBrowser
             // 
@@ -252,9 +270,7 @@
             this.mobilengine_WebBrowser.ScrollBarsEnabled = false;
             this.mobilengine_WebBrowser.Size = new System.Drawing.Size(700, 632);
             this.mobilengine_WebBrowser.TabIndex = 0;
-            this.mobilengine_WebBrowser.Url = new System.Uri("https://app.periscopedata.com/shared/1edefb9a-400b-4eec-8b10-2864de5e2d6f", System.UriKind.Absolute);
-            this.mobilengine_WebBrowser.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.mobilengine_WebBrowser_DocumentCompleted);
-            //
+            // 
             // focusBoard_WebBrowser
             // 
             this.focusBoard_WebBrowser.Location = new System.Drawing.Point(706, 0);
@@ -292,10 +308,10 @@
             this.safetyLadder_Panel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.safetyLadder_PictureBox)).EndInit();
             this.mcgeeEditor_Table.ResumeLayout(false);
+            this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.mcgeeEditorResizeBtn_PictureBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.mcgeeEditorCloseBtn_PictureBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.mcgeeLogo_PictureBox)).EndInit();
-            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }

@@ -1,0 +1,11 @@
+/* Webfont: Bahnschrift-LightSemCond */@font-face {
+    font-family: 'BahnschriftLightSemCond';
+    src: url('Bahnschrift-LightSemCond.eot'); /* IE9 Compat Modes */
+    src: url('Bahnschrift-LightSemCond.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Bahnschrift-LightSemCond.woff') format('woff'), /* Modern Browsers */
+         url('Bahnschrift-LightSemCond.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

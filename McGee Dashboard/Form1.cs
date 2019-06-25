@@ -22,7 +22,8 @@ namespace NSMcGeeDashboard
     {
         // Global variables, needed to pass to multiple functions
         HtmlElement mobilengineContent;
-        HtmlElement mobilengineHeader;
+        bool mobEngReset;
+        //HtmlElement mobilengineHeader;
 
         List<String> FeedSubject = new List<String>();
         List<String> FeedSummary = new List<String>();
@@ -69,6 +70,9 @@ namespace NSMcGeeDashboard
             }
 
             InitializeComponent();                                                  //adds all the controls to the form
+
+            mobilengine_WebBrowser.Url = new Uri(Application.StartupPath + "\\Resources\\mobresource\\Dashboard.html");
+            mobilengine_WebBrowser.DocumentCompleted += new WebBrowserDocumentCompletedEventHandler(mobilengine_WebBrowser_DocumentCompleted);
 
             dashboardTitle_WebBrowser.Url = new Uri(Application.StartupPath + "\\Resources\\Dashboard Title.html");
             dashboardTitle_WebBrowser.Document.Click += new HtmlElementEventHandler(WebBrowser_DocumentClicked);
@@ -203,12 +207,21 @@ namespace NSMcGeeDashboard
 
         private void Mobilengine_Timer_Tick(object sender, EventArgs e)
         {
-            ((Timer)sender).Interval = 50;
-            mobilengineContent.ScrollTop++;
-            if (mobilengineContent.ScrollTop == (mobilengineContent.ScrollRectangle.Height - mobilengineContent.OffsetRectangle.Height))
+            if (mobEngReset == false)
             {
-                mobilengineContent.ScrollTop = 0;
-                ((Timer)sender).Interval = 5000;
+                ((Timer)sender).Interval = 50;
+                mobilengineContent.Parent.ScrollTop++;
+                int mobEngOffset = mobilengineContent.Parent.ScrollRectangle.Height - mobilengineContent.Parent.ClientRectangle.Height;
+                if (mobilengineContent.Parent.ScrollTop == mobEngOffset)
+                {
+                    ((Timer)sender).Interval = 5000; //pause at end of page and start of page
+                    mobEngReset = true;
+                }
+            }
+            else
+            {
+                mobilengineContent.Parent.ScrollTop = 0;
+                mobEngReset = false;
             }
 
         }
@@ -406,15 +419,23 @@ namespace NSMcGeeDashboard
 
         private void mobilengine_WebBrowser_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
+
+            //Original mobilengine Url... page is now down?
+            //https://app.periscopedata.com/shared/1edefb9a-400b-4eec-8b10-2864de5e2d6f
+
             mobilengine_WebBrowser.DocumentCompleted -= mobilengine_WebBrowser_DocumentCompleted;
             bool mobilengineContinue = false;
             while (!mobilengineContinue)
             {
                 try
                 {
+                    // For original Url...
+                    /*
                     mobilengine_WebBrowser.Document.Body.Style = "zoom:115%;";
                     mobilengineHeader = ElementsByClass(mobilengine_WebBrowser.Document, "app-header dashboard-header tooltip-cover-heading").First();
                     mobilengineHeader.Style = "visibility:hidden;";
+                    */
+
                     mobilengineContent = ElementsByClass(mobilengine_WebBrowser.Document, "main-content").First();
                     mobilengineContent.Style = "overflow:hidden; top:0;";
                     mobilengine_WebBrowser.Visible = true;

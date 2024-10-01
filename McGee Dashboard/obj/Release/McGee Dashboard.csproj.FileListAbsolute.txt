@@ -1,204 +1,206 @@
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\ProjectSettings.json
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\Resources\v15\.suo
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\slnx.sqlite
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\.vs\VSWorkspaceState.json
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Bucket Icon.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Bulletin.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Close Button Rollover.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Close Button.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Dashboard Title.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Editor.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Focus Board.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\HTML-Template.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Icon.ico
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Mandatory Requirement.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\McGee Loading.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\McGee Logo.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\Dashboard.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graphs\graph1.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\mobresource\graphs\graph2.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Resize Button Rollover.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Resize Button.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Safety Ladder.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\scrolltext.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Site Information.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Site Name.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\styles.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\changelog.txt
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\jquery.tinymce.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\langs\readme.md
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\license.txt
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\advlist\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\anchor\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autolink\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autoresize\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autosave\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\bbcode\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\charmap\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\codesample\css\prism.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\codesample\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\code\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\colorpicker\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\contextmenu\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\directionality\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-cool.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-cry.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-embarassed.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-foot-in-mouth.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-frown.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-innocent.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-kiss.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-laughing.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-money-mouth.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-sealed.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-smile.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-surprised.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-tongue-out.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-undecided.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-wink.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-yell.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\fullpage\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\fullscreen\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\help\img\logo.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\help\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\hr\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\imagetools\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\image\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\importcss\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\insertdatetime\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\legacyoutput\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\link\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\lists\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\media\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\nonbreaking\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\noneditable\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\pagebreak\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\paste\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\preview\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\print\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\save\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\searchreplace\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\spellchecker\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\tabfocus\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\table\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\template\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textcolor\Bucket Icon.png
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textcolor\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textpattern\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\toc\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualblocks\css\visualblocks.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualblocks\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualchars\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\wordcount\plugin.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.inline.min.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.min.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.mobile.min.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-mobile.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.svg
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.eot
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.svg
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.ttf
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.woff
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\anchor.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\loader.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\object.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\trans.gif
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\skin.min.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\skin.mobile.min.css
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\inlite\theme.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\mobile\theme.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\modern\theme.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\tinymce.min.js
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\tinymce\LICENSE.TXT
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\Resources\Twitter Title.html
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\McGee Dashboard.exe
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\bin\Release\McGee Dashboard.pdb
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\NSMcGeeDashboard.McGeeDashboard.resources
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\NSMcGeeDashboard.Properties.Resources.resources
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csproj.GenerateResource.Cache
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.csproj.CoreCompileInputs.cache
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.exe
-C:\Users\McGee\source\repos\McGee Dashboard\McGee Dashboard\obj\Release\McGee Dashboard.pdb
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\.vs\ProjectSettings.json
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\.vs\Resources\v15\.suo
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\.vs\slnx.sqlite
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\.vs\VSWorkspaceState.json
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Bucket Icon.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Bulletin.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Close Button Rollover.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Close Button.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Dashboard Title.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Editor.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Focus Board.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\HTML-Template.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Icon.ico
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Mandatory Requirement.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\McGee Loading.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\McGee Logo.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\Dashboard.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift-Light.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Bold.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldCondensed.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-BoldSemiCondensed.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Condensed.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Light.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightCondensed.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-LightSemCond.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-Regular.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemBdSemCond.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBold.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiBoldCondensed.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiCondensed.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemiLight.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtCond.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\fonts\Bahnschrift\Bahnschrift-SemLtSemCond.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\graphs\graph1.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\mobresource\graphs\graph2.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Resize Button Rollover.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Resize Button.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Safety Ladder.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\scrolltext.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Site Information.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Site Name.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\styles.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\changelog.txt
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\jquery.tinymce.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\langs\readme.md
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\license.txt
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\advlist\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\anchor\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autolink\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autoresize\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\autosave\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\bbcode\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\charmap\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\codesample\css\prism.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\codesample\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\code\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\colorpicker\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\contextmenu\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\directionality\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-cool.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-cry.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-embarassed.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-foot-in-mouth.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-frown.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-innocent.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-kiss.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-laughing.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-money-mouth.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-sealed.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-smile.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-surprised.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-tongue-out.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-undecided.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-wink.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\img\smiley-yell.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\emoticons\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\fullpage\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\fullscreen\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\help\img\logo.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\help\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\hr\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\imagetools\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\image\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\importcss\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\insertdatetime\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\legacyoutput\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\link\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\lists\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\media\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\nonbreaking\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\noneditable\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\pagebreak\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\paste\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\preview\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\print\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\save\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\searchreplace\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\spellchecker\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\tabfocus\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\table\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\template\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textcolor\Bucket Icon.png
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textcolor\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\textpattern\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\toc\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualblocks\css\visualblocks.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualblocks\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\visualchars\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\plugins\wordcount\plugin.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.inline.min.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.min.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\content.mobile.min.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-mobile.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.svg
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce-small.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.eot
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.svg
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.ttf
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\fonts\tinymce.woff
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\anchor.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\loader.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\object.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\img\trans.gif
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\skin.min.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\skins\lightgray\skin.mobile.min.css
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\inlite\theme.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\mobile\theme.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\themes\modern\theme.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\js\tinymce\tinymce.min.js
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\tinymce\LICENSE.TXT
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\Resources\Twitter Title.html
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\McGee Dashboard.exe.config
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\McGee Dashboard.exe
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\bin\Release\McGee Dashboard.pdb
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\obj\Release\McGee Dashboard.csproj.AssemblyReference.cache
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\obj\Release\NSMcGeeDashboard.McGeeDashboard.resources
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\obj\Release\NSMcGeeDashboard.Properties.Resources.resources
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\obj\Release\McGee Dashboard.csproj.GenerateResource.cache
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\obj\Release\McGee Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\obj\Release\McGee Dashboard.exe
+C:\Users\Rob\source\repos\McGee-Dashboard-master\McGee Dashboard\obj\Release\McGee Dashboard.pdb

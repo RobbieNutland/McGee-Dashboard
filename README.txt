@@ -1,0 +1,1 @@
+For displaying customised notices on construction sites.

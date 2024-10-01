@@ -237,34 +237,32 @@ namespace NSMcGeeDashboard
         {
             googleWeather_WebBrowser.DocumentCompleted -= googleWeather_WebBrowser_DocumentCompleted;
 
-            do //stall to load google's default cookies
+            do //stall to load
             {
                 Application.DoEvents();
             } while (googleWeather_WebBrowser.ReadyState != WebBrowserReadyState.Complete);
 
-            string googleCookies = googleWeather_WebBrowser.Document.Cookie;
-            string[] googleCookiesArray = System.Text.RegularExpressions.Regex.Split(googleCookies, "; ");
-            foreach (string cookie in googleCookiesArray) //delete each cookie in the array
-            {
-                googleWeather_WebBrowser.Document.InvokeScript("eval", new object[] { "document.cookie = \"" + cookie + "; expires = Thu, 01 Jan 1970 00:00:00 UTC; domain=www.google.co.uk; path =/;\";" });
-                googleWeather_WebBrowser.Document.InvokeScript("eval", new object[] { "document.cookie = \"" + cookie + "; expires = Thu, 01 Jan 1970 00:00:00 UTC; domain=.google.co.uk; path =/;\";" });
+            string postData = "continue=https://www.google.co.uk/search?q%3Dweather" + "&gl=UK" + "&m=0" + "&pc=srp" + "&x=5" + "&src=2" + "&hl=en" + "&bl=gws_20240926-0_RC2" + "&uxe=none" + "&cm=2" + "&set_eom=true";
+            System.Text.Encoding encoding = System.Text.Encoding.UTF8;
+            byte[] bytes = encoding.GetBytes(postData);
+            string url = "https://consent.google.co.uk/save";
+            googleWeather_WebBrowser.Navigate(url, string.Empty, bytes, "Content-Type: application/x-www-form-urlencoded");
 
-            }
-            googleWeather_WebBrowser.Document.InvokeScript("eval", new object[] { "document.cookie = \"CONSENT=YES+GB.en-GB+V9\";" }); //add cookie consenting to google's terms of service
-            googleWeather_WebBrowser.Refresh(); //refresh page, 
-
+            /*
             do
             {
                 Application.DoEvents();
+
             } while (googleWeather_WebBrowser.ReadyState != WebBrowserReadyState.Complete);
+            */
 
             bool googleWeatherContinue = false;
             while (!googleWeatherContinue)
             {
                 try
                 {
-                    HtmlElement googleWeatherElement = ElementsByClass(googleWeather_WebBrowser.Document, "vk_c card-section").First();
-                    googleWeather_WebBrowser.Document.Body.Style = "zoom:80%;";
+                    googleWeather_WebBrowser.Document.Body.Style = "zoom:150%;";
+                    HtmlElement googleWeatherElement = ElementsByClass(googleWeather_WebBrowser.Document, "kCrYT").First();
                     googleWeatherElement.ScrollIntoView(true);
                     googleWeatherContinue = true;
                 }
@@ -273,6 +271,7 @@ namespace NSMcGeeDashboard
                     Application.DoEvents();
                 }
             }
+
             readyBrowsers++;
             splashScreen_Label.Text += " Loaded Weather...";
         }
@@ -292,6 +291,7 @@ namespace NSMcGeeDashboard
 
         private void twitter_WebBrowser_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
         {
+            /*
             twitter_WebBrowser.DocumentCompleted -= twitter_WebBrowser_DocumentCompleted;
             bool twitterContinue = false;
             while (!twitterContinue)
@@ -310,6 +310,7 @@ namespace NSMcGeeDashboard
                     Application.DoEvents();
                 }
             }
+            */
             readyBrowsers++;
             splashScreen_Label.Text += " Loaded Twitter...";
         }
